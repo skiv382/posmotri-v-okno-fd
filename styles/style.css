@@ -112,7 +112,6 @@ ol {
   justify-content: space-between;
   align-items: flex-end;
   gap: 40px;
-  padding-bottom: 5px;
 }
 
 .search-form__checkbox-list {
@@ -185,6 +184,7 @@ ol {
   width: fit-content;
   gap: 5px;
   margin: auto;
+  justify-content: space-between;
 }
 
 .button {
@@ -257,6 +257,7 @@ ol {
   position: relative;
   flex-grow: 1;
   height: 298px;
+  gap: 30px;
 }
 
 .content__list {
